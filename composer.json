@@ -1,0 +1,20 @@
+{
+    "name": "shuc324/support",
+    "description": "support...",
+    "keywords": ["facade", "trait"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shuc324",
+            "email": "shuc324@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Shuc324\\Support\\": ""     
+        }
+    }
+}
