@@ -1,6 +1,6 @@
 {
     "name": "bileji/support",
-    "description": "bileji support package"
+    "description": "bileji support package",
     "keywords": ["facade", "trait"],
     "license": "MIT",
     "authors": [
