@@ -1,6 +1,6 @@
 <?php
 
-namespace Shuc324\Support\Traits;
+namespace Bileji\Support\Traits;
 
 use BadMethodCallException;
 

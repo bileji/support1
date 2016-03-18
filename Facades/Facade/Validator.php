@@ -1,8 +1,8 @@
 <?php
 
-namespace Shuc324\Support\Facades\Facade;
+namespace Bileji\Support\Facades\Facade;
 
-use Shuc324\Support\Facades\Facade;
+use Bileji\Support\Facades\Facade;
 
 class Validator extends Facade
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Shuc324\Support\Facades;
+namespace Bileji\Support\Facades;
 
 use RuntimeException;
 
